@@ -39,8 +39,5 @@ Me chamo Maria Victória e atualmente estou no 4º Periodo do curso de Sistemas 
     
 </div>
 
-##
-  ### 🍓 Portfolio 
-  <a href="https://portfolio-six-beta-33.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
- 
+
 <div> 

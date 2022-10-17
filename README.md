@@ -1,5 +1,5 @@
 ### 👋 Olá!
-Me chamo Maria Victória e atualmente estou no 4º Periodo do curso de Sistemas para Internet da Universidade Catolica de Pernambuco. Procuro trabalhar na área de tecnologia da informação, para aprender a crescer profissionalmente, a fim de compartilhar e resolver desafios. Aqui no meu Github você pode encontrar mais projetos de Front e tambem alguns em java.  
+Me chamo Maria Victória e atualmente estou no 4º Periodo do curso de Sistemas para Internet da Universidade Catolica de Pernambuco.Atualmente trabalho como desenvolvedora full stack junior. Aqui no meu Github você pode encontrar mais projetos em algumas lingaguens de programação.  
 
   
 ##

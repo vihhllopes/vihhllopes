@@ -1,5 +1,5 @@
 ### 👋 Olá!
-Me chamo Maria Victória e atualmente estou no 5º Periodo do curso de Sistemas para Internet da Universidade Catolica de Pernambuco. Atualmente trabalho como desenvolvedora full stack junior.  
+Me chamo Maria Victória sou graduada no curso de Sistemas para Internet da Universidade Catolica de Pernambuco. Atualmente trabalho como desenvolvedora frontend para um ecommerce utilizando React TypeScript e NextJs 😊.  
 
   
 ##
